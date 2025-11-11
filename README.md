@@ -14,3 +14,7 @@ Comandos adicionados no script:
 Este é um script simples e sem recursos de proteção não devendo ser usado em ambiente de produção sem criar respectivas proteções.
 
 Use por sua conta e risco... não me responsabilizo pelo uso ok?
+
+
+Para correto funcionamento você deverá instalar a biblioteca COLORAMA via  comando
+pip install colorama
